@@ -1,2 +1,6 @@
 fastapi
 sqlalchemy
+uvicorn
+pytest
+requests
+httpx
